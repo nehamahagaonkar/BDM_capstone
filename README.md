@@ -1,5 +1,6 @@
 # Enhancing Operational Efficiency and Workload Management in Sakhi Boutique
 
+## Pitch deck : https://canva.link/8elwy0yikiaoszj
 ## 📌 Project Overview
 
 This project was completed as part of the **Business Data Management** course under the **IIT Madras BS Degree Program**.
